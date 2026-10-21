@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 560">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #E94E1B;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #1D1D1B;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #1D1D1B;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: #F2E6CE;
+      }
+
+      .cls-3 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="40" y1="480" x2="360" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3a7ca5"/>
+      <stop offset="1" stop-color="#16425b"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-6" width="400" height="560"/>
+  <g>
+    <circle class="cls-1" cx="200" cy="200" r="120"/>
+    <polygon class="cls-2" points="140 300 200 120 260 300 140 300"/>
+    <rect class="cls-3" x="60" y="340" width="280" height="40"/>
+    <path class="cls-4" d="M40,420c80-40,240-40,320,0"/>
+    <rect class="cls-5" x="40" y="450" width="320" height="60"/>
+  </g>
+  <path d="M180,60h40v40h-40z"/>
+</svg>

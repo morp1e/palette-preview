@@ -1,0 +1,3 @@
+mattdesl/dictionary-of-colour-combinations/master c142bd0bc804
+BlakeRMills/MetBrewer/main 58839e5ac7c7
+karthik/wesanderson/master 02e4129c185e
